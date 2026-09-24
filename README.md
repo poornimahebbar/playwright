@@ -306,7 +306,7 @@ Headless and headed execution on all platforms. <sup>1</sup> Uses [Chrome for Te
 
 Playwright is also available for [Python](https://playwright.dev/python/docs/intro), [.NET](https://playwright.dev/dotnet/docs/intro), and [Java](https://playwright.dev/java/docs/intro).
 
-## Resources
+## Resources 
 
 * [Documentation](https://playwright.dev)
 * [API reference](https://playwright.dev/docs/api/class-playwright)
